@@ -22,7 +22,7 @@ El diseño del sitio está construido con CSS Grid y Flexbox, garantizando una e
 
 Secciones principales
 Inicio (index.html)
-![https://raw.githubusercontent.com/JhonRojas1997/Pruebam2/refs/heads/main/assets/img/p2.png](https://raw.githubusercontent.com/JhonRojas1997/Pruebam2/refs/heads/main/assets/img/p2.png)
+![index](https://raw.githubusercontent.com/JhonRojas1997/Pruebam2/refs/heads/main/assets/img/rm1.jpg)
 Presentación sobre quién soy, qué hago y mi experiencia en áreas como:
 
 Backend development
@@ -31,7 +31,7 @@ Desarrollo de software y videojuegos (Unity, Unreal Engine)
 Automatización industrial y PLCs (GRAFCET, Ladder, Structured Text)
 
 Proyectos (proyectos.html):
-![Imagen index] (/assets/img/rm2.jpg)
+![Proyectos](https://raw.githubusercontent.com/JhonRojas1997/Pruebam2/refs/heads/main/assets/img/rm2.jpg)
 Sección donde muestro algunos de mis proyectos, incluyendo:
 
 Login System → Sistema de autenticación y registro.
@@ -43,7 +43,7 @@ Alkosto Page → Réplica de sitio de compras.
 Cada proyecto tiene una breve descripción y un enlace para explorarlo en detalle.
 
 Contacto (contacto.html)
-![Imagen index] (/assets/img/rm3.jpg)
+![Contacto](https://raw.githubusercontent.com/JhonRojas1997/Pruebam2/refs/heads/main/assets/img/rm3.jpg)
 Un formulario sencillo para que los visitantes puedan enviarme mensajes directamente.
 
 Mejoras futuras:
@@ -51,5 +51,3 @@ Algunas ideas para mejorar el portafolio incluyen:
 Integración con JavaScript para mayor interactividad.
 Créditos
 Creado por Jhon Rojas | Todos los derechos reservados.
-
-![Imagen index] (/assets/img/rm1.jpg)
